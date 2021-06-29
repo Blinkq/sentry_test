@@ -1,0 +1,4 @@
+#Tue Jun 29 10:45:48 EEST 2021
+base.0=/Users/admin/Documents/sentry_test/launcher/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
