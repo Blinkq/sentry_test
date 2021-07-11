@@ -1,0 +1,2 @@
+com/DefaultCompany/SentryTest09/BuildConfig.java
+ com.DefaultCompany.SentryTest09.BuildConfig

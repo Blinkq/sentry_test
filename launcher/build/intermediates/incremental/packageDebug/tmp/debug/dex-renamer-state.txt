@@ -1,4 +1,4 @@
-#Tue Jun 29 10:45:48 EEST 2021
-base.0=/Users/admin/Documents/sentry_test/launcher/build/intermediates/dex/debug/out/classes.dex
-path.0=classes.dex
+#Sun Jul 11 18:51:05 EEST 2021
+base.0=/Users/admin/Documents/SentryTest09/androidExport/launcher/build/intermediates/dex/debug/out/classes.dex
 renamed.0=classes.dex
+path.0=classes.dex

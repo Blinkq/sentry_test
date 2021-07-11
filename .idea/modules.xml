@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sentry_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sentry_test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/sentry_test.launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/sentry_test.launcher.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/sentry_test.unityLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/sentry_test.unityLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidExport.iml" filepath="$PROJECT_DIR$/.idea/modules/androidExport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/androidExport.launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/androidExport.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/androidExport.unityLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/androidExport.unityLibrary.iml" />
     </modules>
   </component>
 </project>
