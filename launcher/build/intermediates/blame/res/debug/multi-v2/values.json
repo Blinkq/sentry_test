@@ -1,10 +1,29 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/admin/Documents/SentryTest09/androidExport/launcher/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/admin/Documents/sentry_test/launcher/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/admin/Documents/SentryTest09/androidExport/launcher/src/main/res/values/ids.xml",
+                    "source": "/Users/admin/Documents/sentry_test/launcher/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "5,7,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "219,319,457",
+                        "endLines": "6,9,13",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "314,452,679"
+                    }
+                },
+                {
+                    "source": "/Users/admin/Documents/sentry_test/launcher/src/main/res/values/ids.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "/Users/admin/Documents/SentryTest09/androidExport/launcher/src/main/res/values/strings.xml",
+                    "source": "/Users/admin/Documents/sentry_test/launcher/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "2,2",
@@ -35,25 +54,6 @@
                         "startOffsets": "101,151",
                         "endColumns": "49,67",
                         "endOffsets": "146,214"
-                    }
-                },
-                {
-                    "source": "/Users/admin/Documents/SentryTest09/androidExport/launcher/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "5,2,7",
-                        "startColumns": "0,0,0",
-                        "startOffsets": "190,53,288",
-                        "endLines": "6,4,10",
-                        "endColumns": "8,8,8",
-                        "endOffsets": "286,188,513"
-                    },
-                    "to": {
-                        "startLines": "5,7,10",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "219,319,457",
-                        "endLines": "6,9,13",
-                        "endColumns": "8,8,8",
-                        "endOffsets": "314,452,679"
                     }
                 }
             ]

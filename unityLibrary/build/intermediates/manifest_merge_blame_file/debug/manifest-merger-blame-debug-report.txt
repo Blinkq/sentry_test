@@ -8,116 +8,116 @@
 8
 9    <uses-sdk
 10        android:minSdkVersion="19"
-10-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml
+10-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml
 11        android:targetSdkVersion="29" />
-11-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml
+11-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml
 12
 13    <uses-permission android:name="android.permission.INTERNET" />
-13-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:4:3-65
-13-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:4:20-62
+13-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:4:3-65
+13-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:4:20-62
 14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-14-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:5:3-77
-14-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:5:20-74
+14-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:5:3-77
+14-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:5:20-74
 15
 16    <uses-feature android:glEsVersion="0x00030000" />
-16-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:21:3-52
-16-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:21:17-49
+16-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:21:3-52
+16-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:21:17-49
 17    <uses-feature
-17-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:22:3-91
+17-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:22:3-91
 18        android:name="android.hardware.vulkan.version"
-18-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:22:17-63
+18-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:22:17-63
 19        android:required="false" />
-19-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:22:64-88
+19-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:22:64-88
 20    <uses-feature
-20-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:23:3-88
+20-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:23:3-88
 21        android:name="android.hardware.touchscreen"
-21-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:23:17-60
+21-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:23:17-60
 22        android:required="false" />
-22-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:23:61-85
+22-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:23:61-85
 23    <uses-feature
-23-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:24:3-99
+23-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:24:3-99
 24        android:name="android.hardware.touchscreen.multitouch"
-24-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:24:17-71
+24-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:24:17-71
 25        android:required="false" />
-25-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:24:72-96
+25-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:24:72-96
 26    <uses-feature
-26-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:25:3-108
+26-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:25:3-108
 27        android:name="android.hardware.touchscreen.multitouch.distinct"
-27-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:25:17-80
+27-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:25:17-80
 28        android:required="false" />
-28-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:25:81-105
+28-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:25:81-105
 29
 30    <application>
-30-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:6:3-20:17
+30-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:6:3-20:17
 31        <activity
-31-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:7:5-14:16
+31-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:7:5-14:16
 32            android:name="com.unity3d.player.UnityPlayerActivity"
-32-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:7:15-68
+32-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:7:15-68
 33            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
-33-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:7:182-363
+33-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:7:182-363
 34            android:hardwareAccelerated="false"
-34-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:7:364-399
+34-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:7:364-399
 35            android:launchMode="singleTask"
-35-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:7:150-181
+35-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:7:150-181
 36            android:screenOrientation="fullSensor"
-36-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:7:111-149
+36-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:7:111-149
 37            android:theme="@style/UnityThemeSelector" >
-37-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:7:69-110
+37-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:7:69-110
 38            <intent-filter>
-38-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:8:7-11:23
+38-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:8:7-11:23
 39                <action android:name="android.intent.action.MAIN" />
-39-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:9:9-61
-39-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:9:17-58
+39-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:9:9-61
+39-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:9:17-58
 40
 41                <category android:name="android.intent.category.LAUNCHER" />
-41-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:10:9-69
-41-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:10:19-66
+41-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:10:9-69
+41-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:10:19-66
 42            </intent-filter>
 43
 44            <meta-data
-44-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:12:7-82
+44-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:12:7-82
 45                android:name="unityplayer.UnityActivity"
-45-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:12:18-58
+45-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:12:18-58
 46                android:value="true" />
-46-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:12:59-79
+46-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:12:59-79
 47            <meta-data
-47-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:13:7-78
+47-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:13:7-78
 48                android:name="android.notch_support"
-48-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:13:18-54
+48-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:13:18-54
 49                android:value="true" />
-49-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:13:55-75
+49-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:13:55-75
 50        </activity>
 51
 52        <meta-data
-52-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:15:5-127
+52-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:15:5-127
 53            android:name="io.sentry.dsn"
-53-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:15:16-44
+53-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:15:16-44
 54            android:value="https://0e4e445b0706421bba4b91d957acb0c6@crash.tennisfeed.net/2" />
-54-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:15:45-124
+54-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:15:45-124
 55        <meta-data
-55-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:16:5-69
+55-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:16:5-69
 56            android:name="unity.splash-mode"
-56-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:16:16-48
+56-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:16:16-48
 57            android:value="0" />
-57-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:16:49-66
+57-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:16:49-66
 58        <meta-data
-58-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:17:5-74
+58-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:17:5-74
 59            android:name="unity.splash-enable"
-59-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:17:16-50
+59-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:17:16-50
 60            android:value="True" />
-60-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:17:51-71
+60-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:17:51-71
 61        <meta-data
-61-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:18:5-81
+61-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:18:5-81
 62            android:name="notch.config"
-62-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:18:16-43
+62-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:18:16-43
 63            android:value="portrait|landscape" />
-63-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:18:44-78
+63-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:18:44-78
 64        <meta-data
-64-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:19:5-101
+64-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:19:5-101
 65            android:name="unity.build-id"
-65-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:19:16-45
+65-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:19:16-45
 66            android:value="d074f022-c1f8-439b-a099-8e6ee4958ccf" />
-66-->/Users/admin/Documents/SentryTest09/androidExport/unityLibrary/src/main/AndroidManifest.xml:19:46-98
+66-->/Users/admin/Documents/sentry_test/unityLibrary/src/main/AndroidManifest.xml:19:46-98
 67    </application>
 68
 69</manifest>
